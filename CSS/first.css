@@ -1,0 +1,11 @@
+.coloreka{
+    border-bottom: double;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+
+.colorekatwo{
+    border-bottom: double;
+    border-color: blue;
+    border-width: 10px;
+}
